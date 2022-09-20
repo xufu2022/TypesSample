@@ -1,0 +1,24 @@
+{
+  "name": "typescript-101",
+  "version": "1.0.0",
+  "description": "Typescript 101 series",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Mohan Dere",
+  "license": "MIT",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {
+  }
+}
