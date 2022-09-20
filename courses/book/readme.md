@@ -12,3 +12,5 @@ npx ts-node src/tips/stringEnums.ts
 npx ts-node src/types/freshness/freshness.ts
 npx ts-node src/types/freshness/indexsignature.ts
 npx ts-node src/normal/callable.ts
+
+npx ts-node src/mastertypescript4th/advancetype.ts
